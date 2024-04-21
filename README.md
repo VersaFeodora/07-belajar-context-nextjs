@@ -15,3 +15,7 @@ As mentioned above, the layout stays the same. However, there is chance that err
 
 3. ![Screenshot](README-pic/3a.png)<br/>
 As mentioned above, the layout stays the same, with the only difference is there is no usage of level parameter in each section.<br/>
+
+4. ![Screenshot](README-pic/4a.png)<br/>
+The layout will change as above<br/>
+

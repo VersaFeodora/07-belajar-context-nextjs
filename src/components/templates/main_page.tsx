@@ -1,5 +1,3 @@
-'use client'
-
 import Heading from "../atoms/heading";
 import Section from "../atoms/section";
 
