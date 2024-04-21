@@ -19,3 +19,11 @@ As mentioned above, the layout stays the same, with the only difference is there
 4. ![Screenshot](README-pic/4a.png)<br/>
 The layout will change as above<br/>
 
+5. ![Screenshot](README-pic/5a.png)<br/>
+![Screenshot](README-pic/5b.png)<br/>
+![Screenshot](README-pic/5c.png)<br/>
+![Screenshot](README-pic/5d.png)<br/>
+![Screenshot](README-pic/5e.png)<br/>
+1. The toggle button is working as intended as shown from picture above, where the page could change from white to black<br/>
+2. If we refresh the website after changing the page and the theme, it will go back to its default state in `app/page.tsx`, which is the Main Page. This is due to how there is no method in preserving current state, so it will always revert to light theme as its initial variable. One of method that could be used is `localStorage`, in which it will save the variable of your current theme in your browser. Along with `JSON.parse` to change the variable to string, it will save the theme everytime it is changed.<br/>
+![Screenshot](README-pic/5f.png)<br/>
